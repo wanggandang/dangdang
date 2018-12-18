@@ -1,4 +1,4 @@
 package com.wanggandang.controller;
 
-public class UserC {
+public class sadssaController {
 }
